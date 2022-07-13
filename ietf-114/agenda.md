@@ -14,4 +14,7 @@ AGENDA:
 - 10m - BOF questions and AD comments/questions
 
 
-Documents:
+Related documents:
+
+- architecture: https://datatracker.ietf.org/doc/draft-hardjono-sat-architecture
+- protocol: https://datatracker.ietf.org/doc/draft-hargreaves-sat-core/
