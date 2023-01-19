@@ -1,17 +1,21 @@
 # Objective
 
-There is currently an interoperability problem in many digital asset networks,
-where assets in one network cannot be moved easily to another network. The
-problem is more acute in the case of private asset networks, where external
-entities have no visibility into the state of an asset in the private network.
-An example is regulated digital representations of real-world private assets,
-such as property ownership certificates, and regulated government-issued
-digital currencies.
+There is currently an interoperability problem in many digital asset
+networks (frequently shortened to "network" below for simplicity),
+where assets in one network cannot be moved easily to another
+network. The problem is more acute in the case of private asset
+networks, where external entities have no visibility into the state of
+an asset in the private network.  An example is regulated digital
+representations of real-world private assets, such as property
+ownership certificates, and regulated government-issued digital
+currencies.
 
-The goal of the Secure Asset Transfer Protocol (SATP) working group will be to
-develop a standard protocol which operates between two peer gateways for the
-purpose of transferring digital assets between an originator in the origin
-network to a beneficiary in destination network.
+The goal of the Secure Asset Transfer Protocol (SATP) working group
+will be to develop a standard protocol which operates between two peer
+gateways for the purpose of transferring digital assets between an
+originator in the origin network to a beneficiary in destination
+network.  The resulting protocol that will be agnostic with respect to
+the type of asset being transferred although.
 
 # Problem space and architecture
 
@@ -19,15 +23,16 @@ To begin addressing these challenges, SATP will employ the gateway paradigm as
 a means for digital assets to be moved from one network to another through a
 standardized asset transfer protocol implemented between peer gateways.
 
-Each gateway represents one network or system, and SATP performs a
+Each gateway represents one digital asset network, and SATP performs a
 voluntary transfer of a digital asset from the origin network to a destination
 network in such a way that evidence of the transfer can be verified by a
 third-party audit in the case of disputes. Both the origin and destination
 networks are assumed to share a common understanding of the digital asset.
 
-There might be several gateways representing the same network or system. It is
-assumed that the same peer gateways representing the networks are participating
-in the entire asset transfer sequence from the beginning to the end.
+There might be several gateways representing the same digital asset
+network. It is assumed that the same peer gateways representing the
+networks are participating in the entire asset transfer sequence from
+the beginning to the end.
 
 A key requirement for transferring assets is ensuring that the digital asset is
 valid in one network only at any given time. This means that SATP must ensure
