@@ -11,7 +11,7 @@ digital currencies.
 The goal of the Secure Asset Transfer Protocol (SATP) working group will be to
 develop a standard protocol which operates between two peer gateways for the
 purpose of transferring digital assets between an originator in the origin
-network to a beneficiary in destination network. Problem space and architecture
+network to a beneficiary in destination network.
 
 # Problem space and architecture
 
@@ -19,7 +19,7 @@ To begin addressing these challenges, SATP will employ the gateway paradigm as
 a means for digital assets to be moved from one network to another through a
 standardized asset transfer protocol implemented between peer gateways.
 
-Each gateway represents one network or system, and the SAT protocol performs a
+Each gateway represents one network or system, and SATP performs a
 voluntary transfer of a digital asset from the origin network to a destination
 network in such a way that evidence of the transfer can be verified by a
 third-party audit in the case of disputes. Both the origin and destination
@@ -45,8 +45,8 @@ The deliverables of the SATP Working Group will be as follows:
     data sharing and coordinated asset exchanges. The starting point for the
     architecture document will be draft-hardjono-sat-architecture.
 
-    SATP Asset Transfer Protocol: Concurrent with the development of the SATP
-    architecture will be the SATP Asset Transfer Protocol that implements the
+    Secure Asset Transfer Protocol: Concurrent with the development of the SATP
+    architecture will be the Secure Asset Transfer Protocol that implements the
     transfer of a digital asset from one gateway to another, satisfying the
     ACID properties.
 
