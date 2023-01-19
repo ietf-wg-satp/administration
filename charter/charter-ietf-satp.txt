@@ -60,9 +60,9 @@ The deliverables of the SATP Working Group will be as follows:
     described succinctly, with the goal of providing the background to the SATP
     work.
 
-SATP will define common identifiers, message flows and payloads among the above
-three protocol modes. A common terminology will be defined in the architecture
-document.
+SATP will define common identifiers, message flows and payloads for
+transferring digital assets. A common terminology will be defined in
+the architecture document.
 
 SATP will reuse existing IETF standards for various aspects of the protocol
 modes, including but not limited to secure channel establishment (TLS), payload
