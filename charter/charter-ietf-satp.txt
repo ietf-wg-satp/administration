@@ -23,11 +23,12 @@ To begin addressing these challenges, SATP will employ the gateway paradigm as
 a means for digital assets to be moved from one network to another through a
 standardized asset transfer protocol implemented between peer gateways.
 
-Each gateway represents one digital asset network, and SATP performs a
-voluntary transfer of a digital asset from the origin network to a destination
-network in such a way that evidence of the transfer can be verified by a
-third-party audit in the case of disputes. Both the origin and destination
-networks are assumed to share a common understanding of the digital asset.
+Each gateway represents one digital asset network, and SATP allows
+gateways to perform a voluntary transfer of a digital asset from the
+origin network to a destination network in such a way that evidence of
+the transfer can be verified by a third-party audit in the case of
+disputes. Both the origin and destination networks are assumed to
+share a common understanding of the digital asset.
 
 There might be several gateways representing the same digital asset
 network. It is assumed that the same peer gateways representing the
