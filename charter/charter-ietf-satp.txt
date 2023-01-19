@@ -71,4 +71,8 @@ formats (e.g., JSON, CBOR, ProtoBuf, etc.), digital signature and encryption
 etc.), and others. SATP may also reuse existing standards from other
 organizations (e.g., W3C with DIDs).
 
-Legal frameworks are outside of the scope of the SATP work.
+Note that for the protocol to work, agreements will likely be needed
+between participating digital asset networks that intend to use SATP;
+these legal or other frameworks are outside of the scope of the SATP.
+This assumption is akin to how the BGP protocol is frequently run
+between parties that have previously agreed to route IP packets.
