@@ -39,7 +39,7 @@ A key requirement for transferring assets is ensuring that the digital asset is
 valid in one network only at any given time. This means that SATP must ensure
 that the properties of atomicity, consistency, isolation, and durability (ACID)
 of the underlying networks are satisfied in an asset transfer. Commitments and
-rollbacks must be supported in the case of an asset mid-transfer failure. Scope
+rollbacks must be supported in the case of an asset mid-transfer failure.
 
 # Deliverables
 
