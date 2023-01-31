@@ -41,6 +41,17 @@ that the properties of atomicity, consistency, isolation, and durability (ACID)
 of the underlying networks are satisfied in an asset transfer. Commitments and
 rollbacks must be supported in the case of an asset mid-transfer failure.
 
+# Relationship with other IETF Working Groups
+
+The Transfer dIGital cREdentialS Securely (TIGRESS) working group is
+focused on transferring digital credentials, which is akin to but not
+equal to SATP's goals of transferring digital assets.  An additional
+difference is TIGRESS is a wallet-to-wallet transfer, while SATP's
+proposed solution involves a gateway-to-gateway transfer. The SATP
+working group will work with TIGRESS proponents to ensure reuse of
+existing TIGRESS outputs are used within SATP to promote technology
+reuse.
+
 # Deliverables
 
 The deliverables of the SATP Working Group will be as follows:
