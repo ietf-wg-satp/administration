@@ -14,7 +14,7 @@ The goal of the Secure Asset Transfer Protocol (SATP) working group
 will be to develop a standard protocol which operates between two peer
 gateways for the purpose of transferring digital assets between an
 originator in the origin network to a beneficiary in a destination
-network.  The resulting protocol that will be agnostic with respect to
+network.  The resulting protocol shall be agnostic with respect to
 the type of asset being transferred.
 
 # Problem space and architecture
