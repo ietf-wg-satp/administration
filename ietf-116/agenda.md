@@ -5,6 +5,8 @@ Room: ???
 
 ## AGENDA:
 
+SCRATCH-PAD AGENDA -- NOT FINAL
+
 - 5m - Chair Introduction (Wes)
     - interim plans -- monthly
 - 10m - Scope (Claire)
