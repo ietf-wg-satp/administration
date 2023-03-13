@@ -20,7 +20,7 @@ SCRATCH-PAD AGENDA -- NOT FINAL
     - starting a definition list - (TBD by chairs)
 
 - 75m - Proposed WG documents
-    - 30m - [architechure] - Thomas
+    - 30m - [architecture] - Thomas
     - 15m - [use cases] - Venkatraman
     - 30m - [protocol] - Thomas?
 
