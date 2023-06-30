@@ -13,6 +13,7 @@ Room: ???
 - 20m - Terminology - starting a new document
 - 30m - Starting documents
     - 15m - [architechure]
+        - timing overview
     - 15m - [protocol]
 - 10m - Which documents are ready for adoption
 
