@@ -1,6 +1,6 @@
 ## IETF Secure Asset Transfer Protocol (satp) WG
 
-Date: Thursday -- 2023-07-27 -- 09:30-11:30 Local
+Date: Tuesday -- 2023-07-25 -- 09:30-11:30 Local
 Room: Continental 4
 
 ## AGENDA:
