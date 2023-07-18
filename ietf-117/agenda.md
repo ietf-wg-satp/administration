@@ -9,6 +9,7 @@ Room: Continental 4
     - note takers
     - IETF document process reminders
     - plans for monthly interims
+    - tight timeline -- strict adherence to agenda times required
 
 - 5m - SATP Scope (Claire)
     - charter reminder
@@ -18,18 +19,17 @@ Room: Continental 4
 
 - 15m - Updates to draft-ietf-satp-usecases (Rama)
 
-- 20m - Gateway Transfer Initialization Claims (Thomas)
-
 - 20m - Crash Recovery, error codes and session resumption (Rafael) 
 
 - 10m - Asset profile definition (Denis)
 
-- 10m - stage 0 transfer context negotiation (Denis)
+- AOB - time remaining (15m)
 
-- AOB - time remaining
+    - 20m - Gateway Transfer Initialization Claims (Thomas)
+
+    - 10m - stage 0 transfer context negotiation (Denis)
 
     - 15m - sharing of asset state and process snapshot views - Rama
-
 
 ## Related documents:
 
