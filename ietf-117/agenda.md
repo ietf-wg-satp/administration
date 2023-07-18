@@ -6,10 +6,9 @@ Room: Continental 4
 ## AGENDA:
 
 - 5m - Chair Introduction (Wes)
-    - note takers
+    - Note takers needed
     - IETF document process reminders
-    - plans for monthly interims
-    - tight timeline -- strict adherence to agenda times required
+    - Note: we have a tight timeline -- strict adherence to agenda times required
 
 - 5m - SATP Scope (Claire)
     - charter reminder
@@ -23,7 +22,7 @@ Room: Continental 4
 
 - 10m - Asset profile definition (Denis)
 
-- AOB - time remaining (15m)
+- AOB - time remaining (45m)
 
     - 20m - Gateway Transfer Initialization Claims (Thomas)
 
