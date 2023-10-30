@@ -5,21 +5,15 @@ Room: Ballroom
 
 ## AGENDA:
 
-- 5m - Chair Introduction (Wes Hardaker and Claire Facer)
-    - Note takers needed
-    - IETF process reminders
-
+- 5m  - Chair Introduction (Wes Hardaker and Claire Facer)
+      - Note takers needed
+      - IETF process reminders
+- 15m - WG review of SATP architecture draft (Thomas Hardjono)
+- 10m - Crash Recovery draft (Rafael Belchior)
+- 10m - Rust implementation of SATP (Rafael Belchior)
 - 15m - Report from the Network Identification Design Team
         (Thomas Hardjono & Weija Zhang)
-
 - 15m - Asset profile definition (Denis Avrilionis)
-
-- 15m - WG review of SATP architecture draft (Thomas Hardjono)
-
-- 10m - Crash Recovery draft (Tecnico Lisboa)
-
-- 10m - Rust implementation of SATP (Tecnico Lisboa)
-
 - 20m - AOB
 
 ## Related documents:
