@@ -10,7 +10,7 @@ Room: Ballroom
     - IETF process reminders
 
 - 15m - Report from the Network Identification Design Team
-        (Thomas Hardjono & Weija)
+        (Thomas Hardjono & Weija Zhang)
 
 - 15m - Asset profile definition (Denis Avrilionis)
 
