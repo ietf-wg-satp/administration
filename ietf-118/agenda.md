@@ -11,10 +11,11 @@ Room: Ballroom
 - 15m - WG review of SATP architecture draft (Thomas Hardjono)
 - 10m - Crash Recovery draft (Rafael Belchior)
 - 10m - Rust implementation of SATP (Rafael Belchior)
+-  5m - Demo of NFT for DNS ownership use case – (Victor Zhou Zainan)
 - 15m - Report from the Network Identification Design Team
         (Thomas Hardjono & Weija Zhang)
 - 15m - Asset profile definition (Denis Avrilionis)
-- 20m - AOB
+- 15m - AOB
 
 ## Related documents:
 
