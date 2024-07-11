@@ -8,10 +8,10 @@ Room: Plaza C
 - 5m  - Chair Introduction (Wes Hardaker and Claire Facer)
       - Note takers needed
       - IETF process reminders
-- 20m - WG review of SATP architecture draft (Thomas Hardjono)
-- 20m - WG review of SATP core draft (Thomas Hardjono)
+- 30m - WG review of SATP architecture draft (Thomas Hardjono)
+- 30m - WG review of SATP core draft (Thomas Hardjono)
       - discussion: whether unique sessionIDs are needed per transfer instance
-- 20m - WG review of SATP use cases draft (Venkatraman Ramakrishna)
+- 30m - WG review of SATP use cases draft (Venkatraman Ramakrishna)
 - 20m - AOB
 
 ## Related documents:
