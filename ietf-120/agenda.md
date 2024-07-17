@@ -12,6 +12,7 @@ Room: Plaza C
 - 20m - WG review of SATP core draft (Thomas Hardjono)
       - discussion: whether unique sessionIDs are needed per transfer instance
 - 20m - WG review of SATP use cases draft (Venkatraman Ramakrishna)
+- 10m - Stage 0 update (Denis Avrilionis)
 - 20m - AOB
 
 ## Related documents:
