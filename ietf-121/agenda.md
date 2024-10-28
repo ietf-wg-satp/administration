@@ -11,6 +11,7 @@ Room: Wicklow Hall 1
 - 20m - WG review of SATP architecture draft (Thomas Hardjono)
 - 20m - WG review of SATP core draft (Thomas Hardjono)
 - 20m - WG review of SATP use cases draft (Venkatraman Ramakrishna)
+- 10m - SATP experiment results (송효진 / 학생 / 컴퓨터공학부 -- Hyojin)
 - 15m - Next steps for the SATP WG
 - 10m - AOB
 
