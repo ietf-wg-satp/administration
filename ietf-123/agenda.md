@@ -14,6 +14,6 @@ Room: Patio 1
 
 ## Related documents:
 
-[architecture]: https://datatracker.ietf.org/doc/draft-ietf-satp-architecture
-[protocol]: https://datatracker.ietf.org/doc/draft-ietf-satp-core
-[use cases]: https://datatracker.ietf.org/doc/draft-ietf-satp-usecases
+- [draft-ietf-satp-architecture](https://datatracker.ietf.org/doc/draft-ietf-satp-architecture)
+- [draft-ietf-satp-core](https://datatracker.ietf.org/doc/draft-ietf-satp-core)
+- [draft-ietf-satp-usecases](https://datatracker.ietf.org/doc/draft-ietf-satp-usecases)
