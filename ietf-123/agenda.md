@@ -1,6 +1,6 @@
 ## IETF Secure Asset Transfer Protocol (satp) WG
 
-Date: Monday -- 2025-07-21 -- 13:00 Local -- 15:00 UTC
+Date: Monday -- 2025-07-21 -- 17:00 Local -- 15:00 UTC
 Room: Patio 1
 
 ## AGENDA:
