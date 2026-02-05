@@ -17,7 +17,7 @@ originator in the origin network to a beneficiary in a destination
 network.  The resulting protocol shall be agnostic with respect to
 the type of asset being transferred.
 
-# Problem space and architecture
+# Working group goals
 
 The initial work within the SATP WG developed documents defining an
 architecture, a protocol and some expected use cases.  The initial
