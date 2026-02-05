@@ -19,31 +19,16 @@ the type of asset being transferred.
 
 # Working group goals
 
-The initial work within the SATP WG developed documents defining an
-architecture, a protocol and some expected use cases.  The initial
-goal of the working group was to solve some of the identified initial
-requirements (such as a uni-directional transfer that supports locking
-and error recovery) and deferred other work until later (such as
-bi-directional transfers, initial negotiation, and gateway discovery).
-Additionally, during the initial work efforts, the WG identified other
-SAT protocol elements that were needed to fulfill the larger goal of
-providing an interoperable messaging protocol for transferring digital
-assets.
+The initial work within the SATP WG produced documents defining an
+architecture, a protocol and expected use cases.  The initial goal was
+to solve some of the identified initial requirements (such as a
+uni-directional transfer that supports locking and error recovery) and
+defer other work until later (such as bi-directional transfers,
+initial negotiation, and gateway discovery).
 
-The SATP working group will next take on five new elements of work,
-listed in the deliverables below, that provide the SAT protocol with
-additional features for supporting more advanced usage.
-
-# Relationship with other IETF Working Groups
-
-The Transfer dIGital cREdentialS Securely (TIGRESS) working group is
-focused on transferring digital credentials, which is akin to but not
-equal to SATP's goals of transferring digital assets.  An additional
-difference is TIGRESS is a wallet-to-wallet transfer, while SATP's
-proposed solution involves a gateway-to-gateway transfer. The SATP
-working group will work with TIGRESS proponents to ensure reuse of
-existing TIGRESS outputs are used within SATP to promote technology
-reuse.
+The SATP working group will next focus on some of the deferred tasks.
+It will concentrate on five new elements of work, listed in the
+deliverables below
 
 # Deliverables
 
@@ -78,3 +63,15 @@ these legal or other frameworks, along with proof of their proper
 implementation, remain outside of the scope of the SATP.  This
 assumption is akin to how the BGP protocol is frequently run between
 parties that have previously agreed to route IP packets.
+
+# Relationship with other IETF Working Groups
+
+The Transfer dIGital cREdentialS Securely (TIGRESS) working group is
+focused on transferring digital credentials, which is akin to but not
+equal to SATP's goals of transferring digital assets.  An additional
+difference is TIGRESS is a wallet-to-wallet transfer, while SATP's
+proposed solution involves a gateway-to-gateway transfer. The SATP
+working group will work with TIGRESS proponents to ensure reuse of
+existing TIGRESS outputs are used within SATP to promote technology
+reuse.
+
