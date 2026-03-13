@@ -1,15 +1,15 @@
 # Objective
 
 There is currently an interoperability problem in many digital asset
-networks (frequently shortened to "network" below for simplicity),
+networks (referred to as "network(s)" below),
 where assets in one network cannot be easily transferred or exchanged
 with assets in another network. The problem is more acute in the case
 of private asset networks, where external entities have limited or no
 visibility into the state of an asset in the private network.
 
-Examples include regulated digital representations of real-world
-private assets, regulated government-issued digital currencies, and
-privately issued digital tokens.
+Examples of networks include regulated digital representations of
+real-world private assets, regulated government-issued digital
+currencies, and privately issued digital tokens.
 
 The goal of the Secure Asset Transfer Protocol (SATP) working group is
 to extend the SATP protocol suite by developing additional standard
