@@ -21,15 +21,13 @@ the type of asset and the type of network in which the asset resides.
 
 # Background
 
-The initial work of the SATP working group produced documents defining
-an architecture, a core gateway-to-gateway transfer protocol, and
-representative use cases. The initial goal was to support
+The SATP working group initially produced documents defining an
+architecture, a core gateway-to-gateway transfer protocol, and
+representative use cases. The WG's initial goal was to support
 unidirectional asset transfers with locking, atomic commitment, and
 error recovery, while deferring additional capabilities to a later
-phase.
-
-The recharter builds directly on this foundation and addresses work
-that was previously deferred.
+phase.  The WG will use this foundation and address this previous
+deferred work.
 
 # Working group goals
 
@@ -37,63 +35,50 @@ The SATP working group will extend the protocol suite to address
 additional interoperability capabilities identified in the
 architecture. This next phase will focus on:
 
-- Specification of the pre-transfer negotiation stage assumed but not
-  defined in the core protocol.
+- Specification of the pre-transfer negotiation stage that was assumed
+  but not defined in the core protocol.
 - Mechanisms for controlled sharing of state information across
   network boundaries.
-- Trusted storage, retrieval, and discovery of protocol artefacts
+- Trusted storage, retrieval, and discovery of protocol artifacts
   required for correct protocol instantiation.
-- A formal statement of implementation requirements for gateways and
-  networks deploying SATP.
+- Extensions of the SAT protocol to support bidirectional asset
+  exchanges between networks.
+- A list of implementation requirements for gateways and networks
+  deploying SATP.
 - Development of a threat model for the protocol.
-- Extension of the protocol to support secure asset exchange between networks.
 
-The working group will maintain the principles established in the
-initial charter: the protocol is gateway-to-gateway; networks are
-treated as opaque autonomous systems; the protocol is asset-type and
-network-type agnostic; and existing IETF standards will be reused
-where possible.
-
-
-
-The initial work within the SATP WG produced documents defining an
-architecture, a protocol and expected use cases.  The initial goal was
-to solve some of the identified initial requirements (such as a
-uni-directional transfer that supports locking and error recovery) and
-defer other work until later (such as bi-directional transfers,
-initial negotiation, and gateway discovery).
-
-The SATP working group will next focus on some of the deferred tasks.
-It will concentrate on five new elements of work, listed in the
-deliverables below
+The working group will continue to maintain the following principles:
+the protocol is gateway-to-gateway; networks are treated as opaque
+autonomous systems; the protocol is asset-type and network-type
+agnostic; and existing IETF standards will be reused where possible.
 
 # Deliverables
 
 The deliverables of the SATP Working Group will be as follows:
 
 - SATP will develop protocol steps for an initial negotiation stage
-  ("Phase-0") to establish transfer context and agree protocol
+  ("Phase-0") to establish transfer context and agreed upon protocol
   parameters prior to commencement of the core transfer stages.
 - SATP will develop a data sharing mechanism enabling authorised
   entities to obtain a verified "view" into another network for state
-  and ownership verification, consistent with the architecture.
+  and ownership verification.
 - SATP will develop a mechanism for storage, retrieval, and discovery
-  of protocol artefacts necessary for correct execution of SATP,
+  of protocol artifacts necessary for correct execution of SATP,
   including gateway identities and asset profiles.
+- SATP will develop protocol steps to support a bidirectional atomic
+  asset exchange between networks.
 - SATP will develop a specification describing requirements imposed
   upon gateways and associated networks when deploying SATP.
 - SATP will develop a threat model for the protocol.
-- SATP will develop protocol steps to support secure, atomic asset
-  exchange between networks.
 
 SATP will continue to reuse existing IETF standards for secure channel
 establishment, payload formats, digital signatures and encryption,
 digital certificates and tokens, and related technologies. SATP may
 also reuse standards from other organisations where appropriate.
 
-As with the initial charter, agreements between participating digital
-asset networks that deploy SATP remain outside the scope of the
-working group.
+Additional agreements, such as contractual or legal agreements,
+between participating digital asset networks that deploy SATP remain
+outside the scope of the working group.
 
 # Relationship with other IETF Working Groups
 
