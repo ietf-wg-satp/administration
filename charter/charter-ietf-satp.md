@@ -80,14 +80,3 @@ Additional agreements, such as contractual or legal agreements,
 between participating digital asset networks that deploy SATP remain
 outside the scope of the working group.
 
-# Relationship with other IETF Working Groups
-
-The Transfer dIGital cREdentialS Securely (TIGRESS) working group
-focuses on transferring digital credentials, which is related to but
-distinct from SATP’s goals of transferring and exchanging digital
-assets. TIGRESS addresses wallet-to-wallet transfers, while SATP
-specifies gateway-to-gateway transfers.
-
-The SATP working group will coordinate with TIGRESS and other relevant
-working groups to promote reuse of applicable technologies and avoid
-duplication of effort.
