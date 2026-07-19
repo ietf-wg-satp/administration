@@ -16,7 +16,7 @@ Room: Grand Park Hall 1
 ### Near-term Work Items
 
 - 20m - Stage-0 Architecture and Protocol - Thomas Hardjono and Denis Avrilioni
-- 20m - Artifects registry work - Thomas Hardjono and Denis Avrilioni
+- 20m - Artifacts registry work - Thomas Hardjono and Denis Avrilioni
 
 ## Related documents:
 
